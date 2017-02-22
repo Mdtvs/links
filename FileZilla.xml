@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FileZilla3 version="3.21.0" platform="windows">
+<FileZilla3 version="3.24.0" platform="windows">
 	<Servers>
+		<Server>
+			<Host>92.124.198.75</Host>
+			<Port>7102</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>poltraf</User>
+			<Pass encoding="base64">cG9sdHJhZg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>aagp-extftp</Name>
+			<Comments>c:\FTPOutside</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>aagp-extftp</Server>
 		<Server>
 			<Host>10.9.11.31</Host>
 			<Port>7102</Port>
@@ -41,6 +61,24 @@
 			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>ftpwmo</Server>
+		<Server>
+			<Host>www.itc.mecom.ru</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<Logontype>0</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>itc</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>itc</Server>
 		<Server>
 			<Host>10.9.11.1</Host>
 			<Port>21</Port>
@@ -98,8 +136,8 @@
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>warep</Server>
 		<Server>
-			<Host>92.124.198.75</Host>
-			<Port>7102</Port>
+			<Host>46.48.133.216</Host>
+			<Port>21</Port>
 			<Protocol>0</Protocol>
 			<Type>0</Type>
 			<User>poltraf</User>
@@ -110,12 +148,12 @@
 			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
-			<Name>aagp-extftp</Name>
-			<Comments>c:\FTPOutside</Comments>
+			<Name>Yak</Name>
+			<Comments />
 			<Colour>0</Colour>
 			<LocalDir />
 			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>aagp-extftp</Server>
+			<DirectoryComparison>0</DirectoryComparison>Yak</Server>
 	</Servers>
 </FileZilla3>
